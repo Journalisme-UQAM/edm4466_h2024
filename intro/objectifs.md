@@ -8,9 +8,12 @@ En d'autres termes, nous dit Cardon, pour bien comprendre la société d'aujourd
 
 Ce n'est pas nouveau. De tout temps, on demande aux journalistes de comprendre, pour mieux les expliquer, toutes sortes de systèmes : la politique, les tribunaux, l'économie, les règlementations en matière environnementale, agricole, culturelle, etc. Même le hockey est un système dont on s'attend à ce que vous connaissiez les règles.
 
-Les plateformes numériques (on pense à Meta \[Facebook, Instagram, etc.], à Alphabet \[Google, YouTube, etc.], à Netflix, à Spotify, à TikTok, à BeReal, à Uber et à une foule d'autres) sont des systèmes. Ces systèmes sont composés, grosso modo, de deux éléments : des masses phénoménales de données, ce qu'on appelle du _**Big Data**_, et des **algorithmes** qui, à la fois, s'alimentent de ces données et les nourrissent.
+Les plateformes numériques (on pense à Meta \[Facebook, Instagram, etc.], à Alphabet \[Google, YouTube, etc.], à Netflix, à Spotify, à TikTok, à BeReal, à Uber et à une foule d'autres) sont des systèmes. Ces systèmes sont composés, grosso modo, de deux éléments:
 
-Dans ce cours, donc, vous allez créer des algorithmes et vous allez extraire du sens de grands ensembles de données. L'objectif de ces apprentissages n'est pas de vous transformer en développeuses ou en développeurs. Accessoirement, oui, ce cours pourra vous permettre de mieux interagir avec des informaticiennes ou des informaticiens, avec des analystes de données, car de plus en plus sont employé.e.s dans les médias.
+* des masses phénoménales de données, ce qu'on appelle du _**Big Data**_, et
+* des **algorithmes** qui, à la fois, s'alimentent de ces données et les nourrissent.
+
+Dans ce cours, donc, vous allez créer des algorithmes et vous allez extraire du sens de grands ensembles de données. L'objectif de ces apprentissages n'est pas de vous transformer en robots; ni en développeuses ou en développeurs. Accessoirement, oui, ce cours pourra vous permettre de mieux interagir avec des informaticiennes ou des informaticiens, avec des analystes de données, car de plus en plus sont employé.e.s dans les médias.
 
 Mais il s'agit surtout de **démythifier** les _buzzwords_ que sont devenus « algorithme », « _Big Data_ » et « intelligence artificielle » en apprivoisant la programmation, la science des données massives et quelques éléments d'apprentissage automatique (_machine learning_).
 
