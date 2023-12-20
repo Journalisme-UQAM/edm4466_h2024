@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⭐ Journalisme de données II \~ Hiver 2023](README.md)
+* [😺 H24 • Journalisme de données II](README.md)
 
 ## Intro
 
