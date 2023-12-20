@@ -1,8 +1,4 @@
 ---
-description: >-
-  Image de couverture générée par Midjourney avec la commande suivante : «funky
-  complex intricate steampunk pokemon medieval journalism computing tools and
-  machines».
 cover: >-
   .gitbook/assets/jhroy_colourful_programming_syntax_--ar_437100_--v_5.2_35998c74-9d37-4524-936e-ddcf05e69909.png
 coverY: 0
@@ -34,3 +30,6 @@ _**Remarque** : avoir son propre ordinateur portable est relativement incontour
 
 L'auteur de ce plan de cours ([Jean-Hugues Roy](https://professeurs.uqam.ca/professeur/WyTzZVrQL3o\_/)) le met à disposition selon les termes de la [licence Creative Commons Paternité - Pas d'Utilisation Commerciale 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
+***
+
+_Image de couverture générée par Midjourney avec la commande suivante : «funky complex intricate steampunk pokemon medieval journalism computing tools and machines»._

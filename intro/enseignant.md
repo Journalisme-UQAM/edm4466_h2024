@@ -10,7 +10,6 @@
 | Pronoms          | il, lui / he, him / el, lo                                                                                            |
 | Bureau           | J-4185                                                                                                                |
 | Courriel         | [roy.jean-hugues@uqam.ca](mailto:roy.jean-hugues@uqam.ca)                                                             |
-| Téléphone        | 514/987-3000, x6102                                                                                                   |
 | Mobile/Signal    | 514/778-6102                                                                                                          |
 | Twitter          | [@jeanhuguesroy](https://twitter.com/jeanhuguesroy)                                                                   |
 | Instagram        | [@jhroy](https://www.instagram.com/jhroy/)                                                                            |
