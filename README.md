@@ -1,6 +1,25 @@
 ---
-cover: .gitbook/assets/imageBandeau.001.jpeg
+description: >-
+  Image de couverture générée par Midjourney avec la commande suivante : «funky
+  complex intricate steampunk pokemon medieval journalism computing tools and
+  machines».
+cover: >-
+  .gitbook/assets/jhroy_colourful_programming_syntax_--ar_437100_--v_5.2_35998c74-9d37-4524-936e-ddcf05e69909.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 😺 H24 • Journalisme de données II
