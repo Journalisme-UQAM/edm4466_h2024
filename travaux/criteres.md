@@ -22,9 +22,13 @@ Les notes égales ou inférieures à **B-**, cependant, sont toujours possibles 
 
 Je ne tiendrai pas compte des fautes de français dans les commentaires que vous laisserez dans vos scripts.
 
-Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir une intense frustration qui ne m'est pas étrangère. Il m'arrive fréquemment de rager et d'avoir envie de défenestrer mon ordinateur. Ne vous laissez pas paralyser. N'hésitez pas, non plus, à demander de l'aide (m'écrire, me téléphoner ou venir me voir à mon bureau \[si :microbe: le permet]).
+Cependant, **vos noms de variables devront être en français**.
 
-<figure><img src="../.gitbook/assets/lapid.gif" alt=""><figcaption><p>Source: <a href="https://tenor.com/fr/users/thinkjules">ThinkJules</a></p></figcaption></figure>
+Enfin, si votre code ne ressemble pas aux «recettes» que je vous ai données, je serai enclin à penser que ce n'est pas vous qui l'avez rédigé, mais un(e) ami(e) en chair et en os, ou synthétique.
+
+Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir une intense frustration qui ne m'est pas étrangère. Il m'arrive fréquemment de rager et d'avoir envie de défenestrer mon ordinateur. Ne vous laissez pas paralyser. N'hésitez pas, non plus, à demander de l'aide (m'écrire, me téléphoner ou venir me voir à mon bureau).
+
+<figure><img src="../.gitbook/assets/komputer-kaputt.gif" alt=""><figcaption><p>Moi aussi, parfois, j'ai envie de défenestrer mon ordinateur!</p></figcaption></figure>
 
 ### Travail final et _making-of_
 

@@ -8,6 +8,7 @@
 * [✨ Méthode](intro/methode.md)
 * [👨🏫 Enseignant](intro/enseignant.md)
 * [🗃 Répertoire Google Drive](intro/repertoire-google-drive.md)
+* [🐔 IA générative](intro/ia-generative.md)
 
 ## Contenu
 
