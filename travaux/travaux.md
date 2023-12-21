@@ -9,14 +9,15 @@ Liens directs vers les devoirs:
 * [Devoir 2](travaux.md#devoir-3)
 * [Identifier un site web](travaux.md#le-site-que-vous-voulez-moissonner-5-points)
 * [Moissonage](travaux.md#moissonage-en-classe-10-points)
-* [Devoir 3](travaux.md#devoir-4)
-* [Devoir 4](travaux.md#devoir-5)
+* [Devoir TAL](travaux.md#devoir-4)
+* [Devoir pandas](travaux.md#devoir-5)
+* [Travail final](travaux.md#projet-final-25-points)
 
 ### Markdown - À venir (5 points) <a href="#devoir-1" id="devoir-1"></a>
 
 Il suffit d'exporter votre carnet dans lequel vous avez rédigé du markdown en classe et de le déposer dans Moodle.
 
-Tombée : à la fin de la séance 02.
+Tombée : 12h30 à la fin de la séance 02.
 
 ### Devoir 1 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
@@ -46,13 +47,13 @@ Identifiez un site web qui fera l'objet de l'exercice de moissonnage en classe q
 
 Tombée : 23h59, le lundi 12 février 2024.
 
-### Moissonage en classe (10 points)
+### Travail pratique de moissonage en classe (10 points)
 
 Remettez dans Moodle votre carnet réalisé en classe.
 
-Tombée : 12h30 à la fin du cours du 15 février 2024.
+Tombée : 12h30 à la fin de la séance 06.
 
-### Devoir 3 (10 points) - TAL <a href="#devoir-4" id="devoir-4"></a>
+### Devoir TAL (10 points) <a href="#devoir-4" id="devoir-4"></a>
 
 Rédigez un carnet ...
 
@@ -60,7 +61,7 @@ Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 11 mars 2024.
 
-### Devoir 4 (10 points) - Pandas <a href="#devoir-5" id="devoir-5"></a>
+### Devoir pandas (10 points) <a href="#devoir-5" id="devoir-5"></a>
 
 Rédigez un carnet ...
 
@@ -68,7 +69,7 @@ Vous me remettez votre carnet (**devoir5.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 25 mars 2024.
 
-### Projet final (30 points)
+### Projet final (25 points)
 
 Pour votre projet final, qui est un travail **individuel**, vous avez deux options. Vous pouvez faire :
 
