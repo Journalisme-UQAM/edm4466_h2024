@@ -13,7 +13,7 @@ Les plateformes numériques (on pense à Meta \[Facebook, Instagram, etc.], à A
 * des masses phénoménales de données, ce qu'on appelle du _**Big Data**_, et
 * des **algorithmes** qui, à la fois, s'alimentent de ces données et les nourrissent.
 
-Dans ce cours, donc, vous allez créer des algorithmes et vous allez extraire du sens de grands ensembles de données. L'objectif de ces apprentissages n'est pas de vous transformer en robots; ni en développeuses ou en développeurs. Accessoirement, oui, ce cours pourra vous permettre de mieux interagir avec des informaticiennes ou des informaticiens, avec des analystes de données, car de plus en plus sont employé.e.s dans les médias.
+Dans ce cours, donc, vous allez créer des algorithmes et vous allez extraire du sens de grands ensembles de données. L'objectif de ces apprentissages n'est pas de vous transformer en robots; ni en développeuses. Accessoirement, oui, ce cours pourra vous permettre de mieux interagir avec des informaticiennes, avec des analystes de données, car de plus en plus sont employées dans les médias.
 
 Mais il s'agit surtout de **démythifier** les _buzzwords_ que sont devenus « algorithme », « _Big Data_ » et « intelligence artificielle » en apprivoisant la programmation, la science des données massives et quelques éléments d'apprentissage automatique (_machine learning_).
 

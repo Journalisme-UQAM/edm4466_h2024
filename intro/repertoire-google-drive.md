@@ -26,4 +26,4 @@ Une fois ce raccourci créé, dans [Colab](https://colab.research.google.com), v
 
 Une fois cette autorisation effectuée, il faudra peut-être patienter un brin. Mais vous devriez voir le dossier appelé **« FichJHR\_EDM4466\_H2024 »** dans la section _Fichiers_, répertoire _drive > MyDrive_, ou plus précisément _**content > drive > MyDrive**._
 
-<figure><img src="../.gitbook/assets/colab24-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/colab24-3.png" alt=""><figcaption><p>Et voilà!</p></figcaption></figure>

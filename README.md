@@ -32,4 +32,8 @@ L'auteur de ce plan de cours ([Jean-Hugues Roy](https://professeurs.uqam.ca/prof
 
 ***
 
+L'utilisation du féminin sous-entend la présence du mot «personne» devant certains noms ou adjectifs et est utilisée pour alléger le texte.
+
+***
+
 _Image de couverture générée par Midjourney avec la commande suivante : «funky complex intricate steampunk pokemon medieval journalism computing tools and machines»._

@@ -10,21 +10,11 @@ Liens directs vers les devoirs:
 * [Devoir 4](travaux.md#devoir-4)
 * [Devoir 5](travaux.md#devoir-5)
 
-### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
+### Devoir 1 - À venir (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
-Rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1E8fnf7aneQj1uc3TWaE59fYMeylyPxuB?usp=sharing). Assurez-vous d'abord d'en créer une copie dans votre Drive.
 
-Répondez ensuite à toutes les questions que je vous y pose.
 
-Le [carnet de mes notes du cours python 1](https://colab.research.google.com/drive/1QG-qvMPWkyvVI5eyRwGLX-MRg0jeLEol?usp=sharing) peut vous aider.
-
-Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
-
-Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
-
-Tombée : 23h59, le lundi 23 janvier 2023.
-
-### Devoir 2 - CSV et API (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 2 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
 Comme avec le devoir 1, rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1-9RMXtjA42HUxjH938kD2v1NobvJY5OC?usp=sharing).
 
@@ -40,13 +30,7 @@ Tombée : 23h59, le lundi 6 février 2023 (tel que convenu au cours du 26 janvi
 
 ### Devoir 3 (15 points) - Moissonnage <a href="#devoir-3" id="devoir-3"></a>
 
-Vous devrez rédiger un carnet qui moissonne les textes d'un•e journaliste ou chroniquer•euse de votre choix. On se servira plus tard de ces textes pour entraîner un modèle de langue. Votre carnet devra :
 
-* contenir suffisamment de commentaires pour que je comprenne ce qu'il fait.
-* afficher suffisamment d'information dans votre carnet pour qu'on puisse en suivre le déroulement.
-* produire un fichier CSV contenant les textes de cette personne :
-  * pour l'année 2022 (à condition qu'elle ait publié 100 textes ou plus en 2022), ou
-  * 100 textes (ou idéalement plus) publiés sur un nombre entier d'années (2 années ou plus).
 
 Vous me le remettez par Moodle, comme d'habitude (**devoir3.ipynb**)
 
