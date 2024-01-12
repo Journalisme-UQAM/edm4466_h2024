@@ -1,6 +1,6 @@
 # ✨ Méthode
 
-[https://commoncrawl.org](https://commoncrawl.org)Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://www.datajconf.com). Il s'agit de l'application de l'informatique au journalisme.
+Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://www.datajconf.com). Il s'agit de l'application de l'informatique au journalisme.
 
 Même le plan de cours que vous consultez en ce moment est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet et de voir les différentes versions d'un même fichier (pour voir comment ce plan de cours a évolué, consultez [ce répertoire sur le compte Github du programme](https://github.com/Journalisme-UQAM/edm4466\_h2024)).
 
@@ -16,7 +16,7 @@ Python a ses avantages et ses inconvénients, comme tous les langages informatiq
 
 Plus concrètement, on s'en servira pour :
 
-* **moissonner** des données, ou faire du _data scraping_, comme le font les artisans de Common Crawl, une archive colossale de 250 milliards de pages web archivées depuis 2008 (elle contient 10 petaoctets, c'est-à-dire 10 000 000 000 000 000 octets ou 10 milliards de gigaoctets; je sais, j'ai le tournis moi aussi)
+* **moissonner** des données, ou faire du _data scraping_, comme le font les artisans de [Common Crawl](https://commoncrawl.org), une archive colossale de 250 milliards de pages web archivées depuis 2008 (elle contient 10 petaoctets, c'est-à-dire 10&nbsp;000&nbsp;000&nbsp;000&nbsp;000&nbsp;000 octets ou 10<sup>16</sup> octets ou 10 milliards de gigaoctets; je sais, j'ai le tournis moi aussi)
 * **extraire du sens** de grands volumes de texte à l'aide du **traitement du langage naturel** (ou _Natural Language Processing \[NLP]_),
 * **se familiariser** avec différentes techniques d'« intelligence artificielle » appliquée, ou d'**apprentissage automatique** (Machine Learning \[ML]),
 * **explorer** l'utilisation programmatique d'outils d'intelligence artificielle générative comme OpenAI.
