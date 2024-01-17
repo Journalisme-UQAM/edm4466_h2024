@@ -13,7 +13,7 @@ Liens directs vers les devoirs:
 * [Devoir pandas](travaux.md#devoir-5)
 * [Travail final](travaux.md#projet-final-25-points)
 
-### Markdown - À venir (5 points) <a href="#devoir-1" id="devoir-1"></a>
+### Markdown - Exercice en classe (5 points) <a href="#devoir-1" id="devoir-1"></a>
 
 Il suffit d'exporter votre carnet dans lequel vous avez rédigé du markdown en classe et de le déposer dans Moodle.
 
