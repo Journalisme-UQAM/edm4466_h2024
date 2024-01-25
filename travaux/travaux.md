@@ -23,7 +23,7 @@ Tombée : 12h30 à la fin de la séance 02.
 
 <figure><img src="../.gitbook/assets/velohiver.jpeg" alt=""><figcaption><p>Ceci n'est pas un Bixi</p></figcaption></figure>
 
-Dans le répertoire Google Drive du cours, vous trouverez deux fichiers JSON contenant des données sur le service Bixi([https://bixi.com/fr/](https://bixi.com/fr/)):
+Dans le répertoire Google Drive du cours, vous trouverez deux fichiers JSON contenant des données sur le service ([Bixi](https://bixi.com/fr/)):
 
 * **stations\_etat.json**
 * **stations\_information.json**
@@ -44,6 +44,8 @@ Dans un carnet, lisez ces deux fichiers et créez, pour chaque station, une list
 Affichez (en utilisant la fonction `print()`) le contenu de votre liste à chaque itération de la boucle que vous allez créer.
 
 À la fin de la boucle, affichez dans une phrase complète (en utilisant toujours la fonction `print()`)  la somme des stations, des vélos disponibles et des emplacements disponibles qui se trouvaient sur le réseau Bixi au moment où je suis allé chercher les données.
+
+N'oubliez pas d'ajouter des commentaires dans des cellules de texte pour m'expliquer ce que fait votre code 😀.
 
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
