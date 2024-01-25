@@ -19,13 +19,31 @@ Il suffit d'exporter votre carnet dans lequel vous avez rédigé du markdown en 
 
 Tombée : 12h30 à la fin de la séance 02.
 
-### Devoir 1 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 1 - Bixi (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
-Rendez-vous dans ce carnet que j'ai créé pour vous.
+<figure><img src="../.gitbook/assets/velohiver.jpeg" alt=""><figcaption><p>Ceci n'est pas un Bixi</p></figcaption></figure>
 
-Assurez-vous d'abord d'en créer **une copie dans votre Drive**, puis répondez à toutes les questions que je vous y pose.
+Dans le répertoire Google Drive du cours, vous trouverez deux fichiers JSON contenant des données sur le service Bixi([https://bixi.com/fr/](https://bixi.com/fr/)):
 
-Les trois premiers carnets de mes notes du cours (que vous trouverez dans la section Tutoriels) peuvent vous être utiles.
+* **stations\_etat.json**
+* **stations\_information.json**
+
+Le premier contient des données sur l'état des stations du réseau Bixi à un moment précis, cette semaine. L'état des stations, c'est notamment le nombre de bixis disponibles ou le nombre d'emplacements libres dans chaque station à ce moment.
+
+Le second contient des informations de base sur chaque station, notamment son nom et ses coordonnées.
+
+Dans un carnet, lisez ces deux fichiers et créez, pour chaque station, une liste à laquelle vous donnerez un nom de votre choix et qui contiendra les éléments suivants:
+
+* Le numéro de la station (son numéro d'identification ou «_id_»)
+* Le nombre de vélos réguliers disponibles à cette station (les vélos électriques ne circulent pas l'hiver)
+* Le nombre d'emplacements disponibles à cette station
+* Le nom de cette station
+* La latitude à laquelle cette station est située
+* La longitude à laquelle cette station est située
+
+Affichez (en utilisant la fonction `print()`) le contenu de votre liste à chaque itération de la boucle que vous allez créer.
+
+À la fin de la boucle, affichez dans une phrase complète (en utilisant toujours la fonction `print()`)  la somme des stations, des vélos disponibles et des emplacements disponibles qui se trouvaient sur le réseau Bixi au moment où je suis allé chercher les données.
 
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
