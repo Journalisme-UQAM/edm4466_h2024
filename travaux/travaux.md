@@ -25,12 +25,12 @@ Tombée : 12h30 à la fin de la séance 02.
 
 Dans le répertoire Google Drive du cours, vous trouverez deux fichiers JSON contenant des données sur le service ([Bixi](https://bixi.com/fr/)):
 
-* **stations\_etat.json**
-* **stations\_information.json**
+* **stations\_etat.py**
+* **stations\_information.py**
 
-Le premier contient des données sur l'état des stations du réseau Bixi à un moment précis, cette semaine. L'état des stations, c'est notamment le nombre de bixis disponibles ou le nombre d'emplacements libres dans chaque station à ce moment.
+Le premier contient une variable appelée `etats` qui est un dictionnaire avec des données sur l'état des stations du réseau Bixi à un moment précis, cette semaine. L'état des stations, c'est notamment le nombre de bixis disponibles ou le nombre d'emplacements libres dans chaque station à ce moment.
 
-Le second contient des informations de base sur chaque station, notamment son nom et ses coordonnées.
+Le second contient une variable appelée `infos` qui est également un dictionnaire avec des informations de base sur chaque station, notamment son nom et ses coordonnées.
 
 Dans un carnet, lisez ces deux fichiers et créez, pour chaque station, une liste à laquelle vous donnerez un nom de votre choix et qui contiendra les éléments suivants:
 
@@ -43,15 +43,17 @@ Dans un carnet, lisez ces deux fichiers et créez, pour chaque station, une list
 
 Affichez (en utilisant la fonction `print()`) le contenu de votre liste à chaque itération de la boucle que vous allez créer.
 
-À la fin de la boucle, affichez dans une phrase complète (en utilisant toujours la fonction `print()`)  la somme des stations, des vélos disponibles et des emplacements disponibles qui se trouvaient sur le réseau Bixi au moment où je suis allé chercher les données.
+À la fin de la boucle, affichez dans une phrase complète (en utilisant toujours la fonction `print()`) la somme des stations, des vélos disponibles et des emplacements disponibles qui se trouvaient sur le réseau Bixi au moment où je suis allé chercher les données.
 
 N'oubliez pas d'ajouter des commentaires dans des cellules de texte pour m'expliquer ce que fait votre code 😀.
+
+**INDICE** : Il est possible d'imbriquer une boucle dans une autre boule.
 
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
 Remettez votre carnet (**devoir1.ipynb**) dans Moodle
 
-Tombée : 23h59, le lundi 29 janvier 2024.
+Tombée : 23h59, le lundi 29 janvier 2024.
 
 ### Devoir 2 (10 points) <a href="#devoir-3" id="devoir-3"></a>
 
@@ -59,7 +61,7 @@ Vous me le remettez par Moodle, comme d'habitude (**devoir2.ipynb**)
 
 Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
 
-Tombée : 23h59, le lundi 5 février 2024.
+Tombée : 23h59, le lundi 5 février 2024.
 
 ### Le site que vous voulez moissonner (5 points)
 
@@ -79,7 +81,7 @@ Rédigez un carnet ...
 
 Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
-Tombée : 23h59, le lundi 11 mars 2024.
+Tombée : 23h59, le lundi 11 mars 2024.
 
 ### Devoir pandas (10 points) <a href="#devoir-5" id="devoir-5"></a>
 
@@ -87,7 +89,7 @@ Rédigez un carnet ...
 
 Vous me remettez votre carnet (**devoir5.ipynb**) dans Moodle.
 
-Tombée : 23h59, le lundi 25 mars 2024.
+Tombée : 23h59, le lundi 25 mars 2024.
 
 ### Projet final (25 points)
 
@@ -96,13 +98,13 @@ Pour votre projet final, qui est un travail **individuel**, vous avez deux optio
 * un <mark style="background-color:blue;">**reportage**</mark> ou
 * un <mark style="background-color:green;">**outil**</mark>
 
-Si vous choisissez l'**option **<mark style="background-color:blue;">**reportage**</mark>, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.
+Si vous choisissez l'\*\*option \*\*<mark style="background-color:blue;">**reportage**</mark>, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.
 
 La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner et/ou traiter et/ou visualiser des données.
 
 Votre reportage devra également comprendre **au moins une entrevue** avec une personne experte ou témoin, ou toute autre personne intervenante en mesure de valider ou d'incarner ce que racontent les données dans votre reportage.
 
-L'**option **<mark style="background-color:green;">**outil**</mark> peut prendre diverses formes. Il peut s'agir d'un robot Instagram, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _W kapab_!
+L'\*\*option \*\*<mark style="background-color:green;">**outil**</mark> peut prendre diverses formes. Il peut s'agir d'un robot Instagram, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _W kapab_!
 
 ### _Making-of_ (10 points)
 
