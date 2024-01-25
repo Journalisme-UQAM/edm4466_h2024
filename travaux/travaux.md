@@ -4,22 +4,22 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Liens directs vers les devoirs:
 
-* [Markdown](travaux.md#devoir-1)
-* [Devoir 1](travaux.md#devoir-2)
-* [Devoir 2](travaux.md#devoir-3)
-* [Identifier un site web](travaux.md#le-site-que-vous-voulez-moissonner-5-points)
-* [Moissonage](travaux.md#moissonage-en-classe-10-points)
-* [Devoir TAL](travaux.md#devoir-4)
-* [Devoir pandas](travaux.md#devoir-5)
+* [Markdown](travaux.md#md)
+* [Devoir 1](travaux.md#devoir-1)
+* [Devoir 2](travaux.md#devoir-2)
+* [Identifier un site web](travaux.md#site)
+* [Moissonage](travaux.md#moisson)
+* [Devoir TAL](travaux.md#devoir-3)
+* [Devoir pandas](travaux.md#devoir-4)
 * [Travail final](travaux.md#projet-final-25-points)
 
-### Markdown - Exercice en classe (5 points) <a href="#devoir-1" id="devoir-1"></a>
+### Markdown - Exercice en classe (5 points) <a href="#md" id="md"></a>
 
 Il suffit d'exporter votre carnet dans lequel vous avez rédigé du markdown en classe et de le déposer dans Moodle.
 
 Tombée : 12h30 à la fin de la séance 02.
 
-### Devoir 1 - Bixi (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 1 - Bixi (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
 <figure><img src="../.gitbook/assets/velohiver.jpeg" alt=""><figcaption><p>Ceci n'est pas un Bixi</p></figcaption></figure>
 
@@ -55,7 +55,7 @@ Remettez votre carnet (**devoir1.ipynb**) dans Moodle
 
 Tombée : 23h59, le lundi 29 janvier 2024.
 
-### Devoir 2 (10 points) <a href="#devoir-3" id="devoir-3"></a>
+### Devoir 2 (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
 Vous me le remettez par Moodle, comme d'habitude (**devoir2.ipynb**)
 
@@ -63,19 +63,19 @@ Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotatin
 
 Tombée : 23h59, le lundi 5 février 2024.
 
-### Le site que vous voulez moissonner (5 points)
+### Le site que vous voulez moissonner (5 points) <a href="#site" id="site"></a>
 
 Identifiez un site web qui fera l'objet de l'exercice de moissonnage en classe que nous réaliserons la semaine suivante. Donnez-m'en le nom et l'URL par Moodle.
 
 Tombée : 23h59, le lundi 12 février 2024.
 
-### Travail pratique de moissonage en classe (10 points)
+### Travail pratique de moissonage en classe (10 points) <a href="#moisson" id="moisson"></a>
 
 Remettez dans Moodle votre carnet réalisé en classe.
 
 Tombée : 12h30 à la fin de la séance 06.
 
-### Devoir TAL (10 points) <a href="#devoir-4" id="devoir-4"></a>
+### Devoir TAL (10 points) <a href="#devoir-3" id="devoir-3"></a>
 
 Rédigez un carnet ...
 
@@ -83,11 +83,11 @@ Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 11 mars 2024.
 
-### Devoir pandas (10 points) <a href="#devoir-5" id="devoir-5"></a>
+### Devoir pandas (10 points) <a href="#devoir-4" id="devoir-4"></a>
 
 Rédigez un carnet ...
 
-Vous me remettez votre carnet (**devoir5.ipynb**) dans Moodle.
+Vous me remettez votre carnet (**devoir4.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 25 mars 2024.
 
