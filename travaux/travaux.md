@@ -47,7 +47,9 @@ Affichez (en utilisant la fonction `print()`) le contenu de votre liste à chaqu
 
 N'oubliez pas d'ajouter des commentaires dans des cellules de texte pour m'expliquer ce que fait votre code 😀.
 
-**INDICE** : Il est possible d'imbriquer une boucle dans une autre boule.
+**INDICE 1** : Il est possible d'imbriquer une boucle dans une autre boucle.
+
+INDICE 2 : `infos["data"]["stations"]` et `etats["data"]["stations"]` sont des listes.
 
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
