@@ -57,9 +57,20 @@ Remettez votre carnet (**devoir1.ipynb**) dans Moodle
 
 Tombée : 23h59, le lundi 29 janvier 2024.
 
-### Devoir 2 (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 2 - Bixi _live_ (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
-Vous me le remettez par Moodle, comme d'habitude (**devoir2.ipynb**)
+J'ai décidé de vous simplifier la tâche.
+
+Il s'agit pour vous de répéter le devoir 1, mais cette fois de le faire en vous connectant à l'API _live_ de Bixi.
+
+* L'état des stations est accessible ici : [https://gbfs.velobixi.com/gbfs/fr/station\_status.json](https://gbfs.velobixi.com/gbfs/fr/station\_status.json)
+* Les informations de base sur les stations le sont ici : [https://gbfs.velobixi.com/gbfs/fr/station\_information.json](https://gbfs.velobixi.com/gbfs/fr/station\_information.json)
+
+Une autre différence : votre carnet devra générer un fichier CSV avec les six éléments d'information que je vous demandais de colliger dans le devoir 1.
+
+Simple, non?
+
+Vous me remettez votre carnet par Moodle, comme d'habitude (**devoir2.ipynb**)
 
 Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
 
