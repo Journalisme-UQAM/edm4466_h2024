@@ -23,7 +23,7 @@ Tombée : 12h30 à la fin de la séance 02.
 
 <figure><img src="../.gitbook/assets/velohiver.jpeg" alt=""><figcaption><p>Ceci n'est pas un Bixi</p></figcaption></figure>
 
-Dans le répertoire Google Drive du cours, vous trouverez deux fichiers JSON contenant des données sur le service ([Bixi](https://bixi.com/fr/)):
+Dans le répertoire Google Drive du cours, vous trouverez deux fichiers contenant des données sur le service [Bixi](https://bixi.com/fr/):
 
 * **stations\_etat.py**
 * **stations\_information.py**
