@@ -6,8 +6,8 @@
 
 * [🎯 Objectifs](intro/objectifs.md)
 * [✨ Méthode](intro/methode.md)
-* [👨🏫 Enseignant](intro/enseignant.md)
-* [🗃 Répertoire Google Drive](intro/repertoire-google-drive.md)
+* [👨‍🏫 Enseignant](intro/enseignant.md)
+* [🗃️ Répertoire Google Drive](intro/repertoire-google-drive.md)
 * [🐔 IA générative](intro/ia-generative.md)
 
 ## Contenu
@@ -15,12 +15,12 @@
 * [🚸 00.Tutoriels](contenu/00.tutoriels.md)
 * [🤖 01.Plan de cours](contenu/01.plan-de-cours.md)
 * [🐍 02.Markdown et Python 1](contenu/02.python-1.md)
-* [⚙ 03.Python 2](contenu/03.python-2.md)
+* [⚙️ 03.Python 2](contenu/03.python-2.md)
 * [🌾 04.Python 3](contenu/04.python-3.md)
 * [🥣 05.Python 4](contenu/05.python-4.md)
 * [🍞 06.Moisson](contenu/06.moisson.md)
 * [👅 07.TAL 1](contenu/06.tal-1.md)
-* [🏖 08.Relâche](contenu/08.relache.md)
+* [🏖️ 08.Relâche](contenu/08.relache.md)
 * [📜 09.TAL 2 + Brainstorm](contenu/07.tal-2-+-brainstorm.md)
 * [🐼 10.Pandas 1](contenu/10.pandas-1.md)
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
@@ -31,9 +31,9 @@
 
 ## Travaux
 
-* [🛠 Travaux](travaux/travaux.md)
-* [🌪 Ventilation](travaux/ventilation.md)
-* [⚠ Critères](travaux/criteres.md)
+* [🛠️ Travaux](travaux/travaux.md)
+* [🌪️ Ventilation](travaux/ventilation.md)
+* [⚠️ Critères](travaux/criteres.md)
 
 ## Politiques et règlements
 
