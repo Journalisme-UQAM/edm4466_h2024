@@ -1,4 +1,4 @@
-# 🛠 Travaux
+# 🛠️ Travaux
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
@@ -90,9 +90,54 @@ Tombée : 12h30 à la fin de la séance 06.
 
 ### Devoir TAL (10 points) <a href="#devoir-3" id="devoir-3"></a>
 
-Rédigez un carnet ...
+Je me suis amusé à ramasser toutes les publications Facebook du Canada francophone depuis le blocage des nouvelles par la bien-aimée Meta. Il y en a plus d'un demi-million 😱! Elles sont toutes regroupées dans le fichier **`FB_depuis_blocage.csv`** se trouvant dans le répertoire Google Drive du cours.
 
-Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
+J'ai regroupé [dans cette liste](https://docs.google.com/spreadsheets/d/1-t5e54T-xFr5XR9nNHZWRZJiZgUyiDJyHwQ5HgC\_jb8/edit?usp=sharing) les 250 pages Facebook ayant publié le plus de matériel au cours de cette période. **Choisissez une page en inscrivant votre nom à côté**.
+
+Rédigez ensuite un carnet qui trouve les 100 lemmes (en minuscules) les plus souvent utilisés dans la colonne **`Message`** par la page que vous avez choisie. Prenez soin de bien nettoyer le texte.
+
+Pour vous aider, chaque publication Facebook (chaque ligne du fichier **`FB_depuis_blocage.csv`**) contient 36 éléments. Les voici :
+
+```
+['Nom de page',
+ 'Pseudo',
+ 'fbID',
+ 'Catégorie',
+ 'Pays',
+ 'Description',
+ 'Date de création de la page',
+ 'Likes de la page',
+ 'Followers de la page',
+ 'Date/heure de création du post',
+ 'Date de création du post',
+ 'Heure de création du post',
+ 'Type',
+ 'Interactions',
+ 'Likes',
+ 'Commentaires',
+ 'Partages',
+ 'Love',
+ 'Wow',
+ 'Haha',
+ 'Tristesse',
+ 'Colère',
+ 'Solidarité',
+ 'Statut de partage vidéo',
+ 'Proprio de la vidéo?',
+ 'Vues du post',
+ 'Vues totales',
+ 'Vues Crossposts',
+ 'Durée',
+ 'URL',
+ 'Message',
+ 'Lien',
+ 'Lien final',
+ "Texte de l'image",
+ 'Texte du lien',
+ 'Description']
+```
+
+Téléchargez votre carnet (**tal.ipynb**) sur votre ordi et remettez-le-me-le dans Moodle.
 
 Tombée : 23h59, le lundi 11 mars 2024.
 
