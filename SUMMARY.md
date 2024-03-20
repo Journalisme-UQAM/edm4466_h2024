@@ -26,7 +26,7 @@
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
 * [💠 12.IA programmatique](contenu/12.tuto-1.md)
 * [🖖 13.Tutorat 1](contenu/13.tuto-2.md)
-* [🙏 14.Tutorat 2 + Brainstorm](contenu/14.tuto-3-installfest.md)
+* [🙏 14.Tutorat 2 + Installfest](contenu/14.tuto-3-installfest.md)
 * [😎 15.Présentations](contenu/15.presentations.md)
 
 ## Travaux
