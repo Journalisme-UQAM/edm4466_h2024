@@ -10,7 +10,8 @@ Liens directs vers les devoirs:
 * [Identifier un site web](travaux.md#site)
 * [Moissonage](travaux.md#moisson)
 * [Devoir TAL](travaux.md#devoir-3)
-* [Devoir pandas](travaux.md#devoir-4)
+* [Travail pratique pandas](travaux.md#devoir-4)
+* [Tutorat](travaux.md#tutorat-5-points)
 * [Travail final](travaux.md#projet-final-25-points)
 
 ### Markdown - Exercice en classe (5 points) <a href="#md" id="md"></a>
@@ -141,13 +142,17 @@ Téléchargez votre carnet (**tal.ipynb**) sur votre ordi et remettez-le-me-le d
 
 Tombée : 23h59, le lundi 11 mars 2024.
 
-### Devoir pandas (10 points) <a href="#devoir-4" id="devoir-4"></a>
+### Travail pratique pandas (5 points) <a href="#devoir-4" id="devoir-4"></a>
 
-Rédigez un carnet ...
+On réalise un travail pratique avec des données du Registre des entreprises.
 
-Vous me remettez votre carnet (**devoir4.ipynb**) dans Moodle.
+Vous me remettez simplement dans Moodle un fichier CSV correspondant à un catégorie d'entreprises que vous avez choisie (**\<votre fichier>.csv**).
 
-Tombée : 23h59, le lundi 25 mars 2024.
+Tombée : 12h30, le jeudi 21 mars 2024.
+
+### Tutorat (5 points)
+
+Vous devez réserver au moins une séance de tutorat avec moi pour que je puisse vous aider à réaliser votre travail final.
 
 ### Projet final (25 points)
 
