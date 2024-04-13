@@ -161,7 +161,7 @@ Pour votre projet final, qui est un travail **individuel**, vous avez deux optio
 * un <mark style="background-color:blue;">**reportage**</mark> ou
 * un <mark style="background-color:green;">**outil**</mark>
 
-Si vous choisissez l'\*\*option \*\*<mark style="background-color:blue;">**reportage**</mark>, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.
+Si vous choisissez l'\*\*option \*\*<mark style="background-color:blue;">**reportage**</mark>, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article (de 3 000 à 10 000 caractères), d'un reportage radio (entre 3 et 10 minutes), d'un reportage télé (entre 3 et 10 minutes) ou d'un reportage web (jusqu'à 10 000 caractères également).
 
 La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner et/ou traiter et/ou visualiser des données.
 
